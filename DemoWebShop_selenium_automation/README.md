@@ -6,12 +6,7 @@
   <p align="center">
     A web automation project to automate testing process of DemoWebShop E-commerce Web Application built using Selenium and TestNG in Java.
     <br /><br/>
-    <a href="https://www.linkedin.com/in/lavatech-technology-81aa6a14b/">
-        <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
-            alt="follow on LinkedIn"></a>
-    <a href="">
-        <img src="https://img.shields.io/twitter/follow/_?style=for-the-badge&logo=twitter"
-            alt="follow on LinkedIn"></a>
+   
   </p>
 </p>
 <hr>
