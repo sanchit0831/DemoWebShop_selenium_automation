@@ -1,0 +1,7 @@
+<suite name="Demo Web Shop Automation Testing">
+	<test name="ChromeTest">
+	<classes>
+	 <class name="TestRunner" /> 	 
+	</classes>
+	</test>
+</suite>

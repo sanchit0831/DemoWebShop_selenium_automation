@@ -1,0 +1,6 @@
+com/demowebshop/testautomation/RegisterStep.class
+com/demowebshop/testautomation/Hooks.class
+com/demowebshop/testautomation/PlaceOrder.class
+com/demowebshop/testautomation/LoginStep.class
+TestRunner.class
+com/demowebshop/testautomation/AddtoCart.class
